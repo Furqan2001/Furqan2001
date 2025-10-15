@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a Full Stack Software Engineer with extensive experience working at early stage startups where I developed scalable production grade applications.
+I am a Full Stack Software Engineer with extensive experience working at early stage startups where I developed scalable production grade applications. I thrive in fast paced and consumer focused environments where I can deliver high impact features that directly shape the user experience. 
 
 
 ## 🌐 Socials:
