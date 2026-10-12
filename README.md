@@ -1,5 +1,5 @@
 # 💫 About Me:
-I build products end to end, from search infrastructure and data pipelines to the React UIs people actually use. I was the founding full stack engineer at Klu, where I owned federated search, real-time indexing and LLM-powered agents, and most recently I interned at HubSpot, moving CRM event search onto a distributed search platform.
+I build products end to end, from an enterprise grade search engine and event-driven backends to the React UIs people actually use. I was the founding full stack engineer at Klu, where I owned federated search, real-time indexing and LLM-powered agents capable of performing complex cross platform workflows, and most recently I interned at HubSpot on the Events org, where I migrated event reads from HBase to an internal search index and added type-aware filtering so users can pinpoint specific occurrences.
 
 I'm finishing my MS in Computer Science at Northeastern and do my best work on fast-moving teams where I can own a problem completely and ship features that directly shape the user experience.
 
