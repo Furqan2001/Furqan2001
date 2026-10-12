@@ -1,5 +1,7 @@
 # 💫 About Me:
-I am a Full Stack Software Engineer with extensive experience working at early stage startups where I developed scalable production grade applications. I thrive in fast paced and consumer focused environments where I can deliver high impact features that directly shape the user experience. 
+I build products end to end, from search infrastructure and data pipelines to the React UIs people actually use. I was the founding full stack engineer at Klu, where I owned federated search, real-time indexing and LLM-powered agents, and most recently I interned at HubSpot, moving CRM event search onto a distributed search platform.
+
+I'm finishing my MS in Computer Science at Northeastern and do my best work on fast-moving teams where I can own a problem completely and ship features that directly shape the user experience.
 
 
 ## 🌐 Socials:
